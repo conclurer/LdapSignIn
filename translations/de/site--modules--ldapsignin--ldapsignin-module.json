@@ -1,0 +1,42 @@
+{
+    "file": "site\\modules\\LdapSignIn\\LdapSignIn.module",
+    "textdomain": "site--modules--ldapsignin--ldapsignin-module",
+    "translations": {
+        "3a7ea4aea78e6007fe27750203a887a6": {
+            "text": "Sie werden \u00fcber die Dom\u00e4ne %1$s angemeldet, sofern Sie keinen abweichenden Dom\u00e4nennamen angeben"
+        },
+        "8d3d527f35ca4e317bd83570c938ea6e": {
+            "text": "Angemeldet \u00fcber LDAP"
+        },
+        "99dfd7d2398ef56062b7dbf0fba2727a": {
+            "text": "Die Verbindung zum LDAP-Server schlug fehl."
+        },
+        "5afcb51821e507e51badea1f2a4f362f": {
+            "text": "Die Verbindung zum LDAP-Server wurde erfolgreich hergestellt."
+        },
+        "4dd7ea902185db123d94520edc119540": {
+            "text": "Anmeldung \u00fcber LDAP"
+        },
+        "b13eb8de7bceb693f31ecb01c9f6514b": {
+            "text": "Erm\u00f6glicht Benutzern, sich via LDAP anzumelden"
+        },
+        "3e3e72765bb59f6d12478cccbb7eab58": {
+            "text": "LDAP-Server"
+        },
+        "c5800e44e7b507ae40144d57388beb18": {
+            "text": "Die Adresse Ihres LDAP-Servers. Diese kann entweder als IP-Adresse oder als Domain-Namen angegeben werden. Ein von Port 389 abweichender Port kann \u00fcber einen Doppelpunkt hinzugef\u00fcgt werden. Beispiele: 10.0.0.1, controller.domain.com, controller.domain.com:388"
+        },
+        "f33bef6c6634d7aab24c7c4771d09991": {
+            "text": "Standard-Anmeldedom\u00e4ne"
+        },
+        "34d52a5559025dea5c1d0eceb286d9cb": {
+            "text": "Diese Dom\u00e4ne wird standardm\u00e4\u00dfig benutzt, sofern der Benutzer keinen abweichenden Dom\u00e4nennamen erg\u00e4nzt. Die Dom\u00e4ne wird dem Benutzernamen hinzugef\u00fcgt, z.B. benutzername@domain.com"
+        },
+        "b6205ca60e2073a7a431a7a63344c938": {
+            "text": "Standard-Benutzerrollen"
+        },
+        "bc354464bf68a259422a3ebcfc03afce": {
+            "text": "Diese Rollen werden auf neue LDAP-Benutzer angewendet. Bitte beachten Sie, dass die Gast-Rolle automatisch angewendet wird."
+        }
+    }
+}

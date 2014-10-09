@@ -23,6 +23,18 @@ This is a module for ProcessWire that enables user authentication over LDAP, so 
 [<img alt="Module Settings" src="http://abload.de/img/ldap-settings-germannzdop.png" height="400px">](http://abload.de/img/ldap-settings-germannzdop.png)
 
 
-## Translation
+### Translation
 
 This module ships with a translation into German. To install it, just upload the json file - which you can find under /translations - to your defined language.
+
+### Changelog
+
+**Version 0.5.1**
+
+- Adds the option to connect to the LDAP server via SSL
+- Adds Debug Mode, so the messages of PHP's LDAP extension are displayed in apache's log file
+- The configuration is validated when saved
+
+**Version 0.5.0**
+
+Initial release

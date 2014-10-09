@@ -23,9 +23,6 @@
         "3e3e72765bb59f6d12478cccbb7eab58": {
             "text": "LDAP-Server"
         },
-        "c5800e44e7b507ae40144d57388beb18": {
-            "text": "Die Adresse Ihres LDAP-Servers. Diese kann entweder als IP-Adresse oder als Domain-Namen angegeben werden. Ein von Port 389 abweichender Port kann \u00fcber einen Doppelpunkt hinzugef\u00fcgt werden. Beispiele: 10.0.0.1, controller.domain.com, controller.domain.com:388"
-        },
         "f33bef6c6634d7aab24c7c4771d09991": {
             "text": "Standard-Anmeldedom\u00e4ne"
         },
@@ -37,6 +34,21 @@
         },
         "bc354464bf68a259422a3ebcfc03afce": {
             "text": "Diese Rollen werden auf neue LDAP-Benutzer angewendet. Bitte beachten Sie, dass die Gast-Rolle automatisch angewendet wird."
+        },
+        "c50157609fb2be029849276faed62758": {
+            "text": "Die Adresse Ihres LDAP-Servers. Diese kann entweder als IP-Adresse oder als Domain-Namen angegeben werden. Ein von Port 389 abweichender Port kann \u00fcber einen Doppelpunkt hinzugef\u00fcgt werden. Beispiele: 10.0.0.1, controller.domain.com, controller.domain.com:388"
+        },
+        "422d70d7a9f129d959dcdaf12e9dfe92": {
+            "text": "SSL verwenden?"
+        },
+        "e31b6243e5fa2c21ea987b93e867fef1": {
+            "text": "Stellt die Verbindung zum LDAP-Server via SSL her."
+        },
+        "a82c4ea6352017b8cbe19837e6f2a4af": {
+            "text": "Debug-Modus"
+        },
+        "b770c42a579bf96903c39c9cf3ab4dfa": {
+            "text": "Schaltet den Debug-Modus ein, damit die Ausgaben des PHP-LDAP-Moduls in die Apache-Logdatei geschrieben werden."
         }
     }
 }
